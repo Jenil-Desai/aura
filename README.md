@@ -10,7 +10,7 @@ Aura is a simple and elegant weather application built with React.js and powered
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://aura-bay.vercel.app).
 
 ## Screenshots
 
