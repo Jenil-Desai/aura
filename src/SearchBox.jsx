@@ -22,7 +22,7 @@ export default function SearchBox({ updateInfo }) {
   const [longitude, setLongitude] = useState(null);
 
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-  const API_KEY = process.env.REACT_APP_API_KEY;
+  const API_KEY = import.meta.env.VITE_REACT_APP_API_KEY;
 
   useEffect(() => {
     const getUserLocation = async () => {
