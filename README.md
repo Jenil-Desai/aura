@@ -20,7 +20,7 @@ Check out the live demo [here](https://aura-bay.vercel.app).
 
 ## Version Releases
 
-1.0 - Zephyr: [Release Notes](https://decorous-boar-5cd.notion.site/Version-Releases-Aura-e1842d3e2d6d4687b3335c3532fc1564?pvs=4)
+1.0 - Zephyr: [Release Notes](https://jenil-desai.notion.site/Version-1-0-3d8ae8a2d5c544e5b1200dcf1beb70da?pvs=4)
 
 ## Getting Started
 
