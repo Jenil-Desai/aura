@@ -1,91 +1,109 @@
-# Aura
+# 🌐 Aura
 
-Aura is a simple and elegant weather application built with React.js and powered by the OpenWeather API. Get real-time weather updates and forecasts with a clean and intuitive interface.
+Welcome to **Aura**! This repository includes a simple and elegant weather application built with React.js and powered by the OpenWeather API. Get real-time weather updates and forecasts with a clean and intuitive interface.
 
-## Features
+---
 
-- Current weather conditions
-- Detailed weather information including temperature, humidity, Max temperature and min temperature.
-- Responsive design for both desktop and mobile devices
+## 📑 Table of Contents
 
-## Demo
+1. [Overview](#-overview)
+2. [Technologies](#-technologies)
+3. [Packages & Libraries Used](#-packages--libraries-used)
+4. [Getting Started](#-getting-started)
+5. [Setup](#-setup)
+6. [Features](#-features)
+7. [Demo & Screenshots](#-demo--screenshots)
+8. [Acknowledgments](#-acknowledgments)
+9. [License](#-license)
 
-Check out the live demo [here](https://aura-bay.vercel.app).
+---
 
-## Screenshots
+## 🌟 Overview
 
-![Screenshot 1](<./Screenshots/Aura-Next%20Gen%20Weather%20(Sun).jpeg>)
-![Screenshot 2](<./Screenshots/Aura-Next%20Gen%20Weather%20(Rain)%20.jpeg>)
-![Screenshot 3](<./Screenshots/Aura-Next%20Gen%20Weather%20(Snow).jpeg>)
+**Description**: Aura is a simple and elegant weather application built with React.js and powered by the OpenWeather API. Get real-time weather updates and forecasts with a clean and intuitive interface.
 
-## Version Releases
+---
 
-1.0 - Zephyr: [Release Notes](https://jenil-desai.notion.site/Version-1-0-3d8ae8a2d5c544e5b1200dcf1beb70da?pvs=4)
+## 💻 Technologies
 
-## Getting Started
+Below is a breakdown of the core technologies used in this project.
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+| 🌐 Web       |
+| ------------ |
+| **React.js** |
 
-### Prerequisites
+---
 
-- Node.js
-- npm (or yarn)
+## 📦 Packages / Libraries Used
 
-### Installation
+This project uses the following essential libraries and packages:
+
+| Package / Library | Purpose                     |
+| ----------------- | --------------------------- |
+| `Vite`            | Fast development build tool |
+| `Material UI`     | UI components for styling   |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project in your local environment:
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/jenil-desai/aura.git
-   cd aura
+   git clone https://github.com/Jenil-Desai/aura.git
    ```
-
-2. Install the dependencies:
-
+2. Install dependencies:
    ```bash
    npm install
    ```
-
-3. Get your API key from [OpenWeatherMap](https://openweathermap.org/api) and add it to your environment variables. Create a `.env` file in the root of your project and add:
-
-   ```bash
-   REACT_APP_API_KEY=your_api_key_here
+3. Configure environment variables by creating `.env` file in the root of the project and add :.
+   ```env
+   VITE_REACT_APP_API_KEY="Your OpenWeather API Key"
    ```
 
-4. Start the development server:
+---
 
+## ⚙️ Setup
+
+1. Start the project:
    ```bash
    npm run dev
    ```
+2. Access the application at `localhost:5173` and explore the website.
 
-5. Open your browser and navigate to `http://localhost:5173` to see the application in action.
+---
 
-## Usage
+## 🎯 Features
 
-Enter a city name in the search bar to get the current weather. The application will display detailed weather information including temperature, humidity, Max temperature and Min temperature.
+Explore the unique features available in this application:
 
-## Built With
+- **Current weather conditions**
+- **Detailed weather information**, including temperature, humidity, max temperature, and min temperature
+- **Responsive design** for both desktop and mobile devices
 
-- [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
-- [OpenWeather API](https://openweathermap.org/api) - Weather data provider
+---
 
-## Contributing
+## 🔗 Demo & Screenshots
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+- [Demo](https://aura-bay.vercel.app/)
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🙏 Acknowledgments
 
-## Acknowledgments
+We’d like to thank the following contributors and resources:
 
-- Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.
-- Inspiration from various weather apps and projects.
+- **[Apna College's Delta 3.0 Course](https://www.apnacollege.in/)** - Course resource.
+- **[Open Weather Docs](https://openweathermap.org/)** - Documentation for Open Weather.
+- **[Material UI Docs](https://mui.com/)** - Documentation for Material UI.
 
-## Contact
+---
 
-For any inquiries or feedback, feel free to reach out:
+## 📜 License
 
-- Email: jenildev91@gmail.com
-- GitHub: [Jenil-Desai](https://github.com/jenil-desai)
-- LinkedIn: [Jenil-Desai](www.linkedin.com/in/desaijenil)
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+---
+
+### Enjoy exploring and contributing to Aura!
